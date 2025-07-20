@@ -53,3 +53,6 @@ Never share this file. It’s excluded from GitHub using .gitignore.
 Open Priyansh_Simple_agent.ipynb in VS Code or Jupyter Notebook.
 
 Click "Run All Cells" or interact with it one cell at a time.
+
+# Resources 
+[IBM Quick Start](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/videos-wx.html?context=wx&audience=wdp).
